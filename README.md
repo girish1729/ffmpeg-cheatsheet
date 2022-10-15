@@ -522,7 +522,7 @@ $ ffmpeg -i in.mp4 -vcodec copy -af "volume=enable='between(t,80,90)':volume=0" 
 
 ## Download this cheatsheet PDF
 
-[Gumroad download](https://girish1729.gum.co/l/ffmpeg-cheatsheet)
+[Gumroad download](https://girish1729.gumroad.com/l/ffmpeg-cheatsheet)
 
 ## Tweet this to your followers
 
